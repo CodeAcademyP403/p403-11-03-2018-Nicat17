@@ -1,0 +1,10 @@
+@media screen and (max-width:1368px){
+    header ul li{
+        display: none;
+    }
+}
+@media screen and (max-width:768px){
+    .word{
+        font-size: 0.5em;
+    }
+}
